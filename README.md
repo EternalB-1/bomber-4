@@ -1,3 +1,7 @@
+<h3>#This repository was copied: https://github.com/cludeex/spammer</h3>
+
+<h2>In 1 minute I received 11 SMS messages</h2>
+
 [![Build Status](https://img.shields.io/github/forks/cludeex/spammer.svg)](https://github.com/cludeex/spammer)
 [![Build Status](https://img.shields.io/github/stars/cludeex/spammer.svg)](https://github.com/cludeex/spammer)
 [![License](https://img.shields.io/github/license/cludeex/spammer.svg)](https://github.com/cludeex/spammer)
