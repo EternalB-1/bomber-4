@@ -7,8 +7,8 @@
 [![License](https://img.shields.io/github/license/cludeex/spammer.svg)](https://github.com/cludeex/spammer)
 # Установка
 $ `pkg install git`<br>
-$ `git clone https://github.com/cludeex/spammer`<br>
-$ `cd spammer`<br>
+$ `git clone https://github.com/EternalB-1/bomber-4`<br>
+$ `cd bomber-4`<br>
 $ `sh install.sh`<br>
 # Запуск
 $ `spammer`<br>
